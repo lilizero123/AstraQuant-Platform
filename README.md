@@ -35,6 +35,7 @@
 
 ## 下载与运行
 
+0. **直接下载 EXE**：[`星衡量化平台.exe`](https://github.com/lilizero123/AstraQuant-Platform/raw/main/release/%E6%98%9F%E8%A1%A1%E9%87%8F%E5%8C%96%E5%B9%B3%E5%8F%B0_v1.0/%E6%98%9F%E8%A1%A1%E9%87%8F%E5%8C%96%E5%B9%B3%E5%8F%B0.exe)（点击立即下载，可直接运行），备用 zip 包可从 [`release/星衡量化平台_v1.0.zip`](https://github.com/lilizero123/AstraQuant-Platform/raw/main/release/%E6%98%9F%E8%A1%A1%E9%87%8F%E5%8C%96%E5%B9%B3%E5%8F%B0_v1.0.zip) 获取。
 1. **一键打包**：直接解压 `release/星衡量化平台_v1.0.zip`，其中包含 `星衡量化平台.exe`、README 与 LICENSE。  
 2. **运行步骤**：双击 `星衡量化平台.exe` → 首次启动根据提示勾选免责声明 → 在左侧选择股票即可联动策略、回测与交易。  
 3. **数据目录**：程序将自动在解压目录下生成 `config/data/logs/strategies` 等文件夹，便于保存个性化配置与策略脚本。
